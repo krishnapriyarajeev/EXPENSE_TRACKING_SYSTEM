@@ -1,4 +1,5 @@
 INTRODUCTION
+
 The Expense Tracking System is an application that enables users to sign 
 up and create an account, log their income and expenses under different 
 categories as well as being able to delete or update these entries and 
@@ -7,6 +8,7 @@ the income - expense of a person on a daily/weekly/monthly basis as per
 the user’s requirements.
 
 ABSTRACT
+
 The Expense Tracking System consists of the following:
 A. User Registration, Login and Setup
 a. User can create an account linked to their email address, with a 
